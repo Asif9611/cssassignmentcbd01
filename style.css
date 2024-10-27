@@ -1,0 +1,144 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+body{
+    text-align: center;
+    background-color: rgb(134, 82, 13);
+    color: #fff;
+}
+
+img{
+    width: 58px;
+    height: 63px;
+    text-align: center;
+}
+div .center{
+
+    margin: 2px 2px 2px 2px;
+}
+
+/* row 1 */
+
+div .r1{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;
+}
+
+div .r1-1{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;
+
+}
+/* row 2 */
+
+div .r2{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;
+}
+
+div .r2-1{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;}
+
+/* row 3 */
+
+div .r3{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;}
+
+div .r3-1{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;
+
+}
+/* row 4 */
+
+div .r4{
+    display: inline-block;
+
+    background-color: #779556;
+    height: 71px;
+    width: 71px;}
+
+div .r4-1{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;
+
+}
+
+/* row 5 */
+
+div .r5{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;
+
+}
+
+div .r5-1{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;
+}
+/* row 6 */
+
+div .r6{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;}
+
+div .r6-1{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;}
+
+/* row 7 */
+
+div .r7{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;}
+
+div .r7-1{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;
+}
+/* row 8 */
+
+div .r8{
+    display: inline-block;
+    background-color: #779556;
+    height: 71px;
+    width: 71px;}
+
+div .r8-1{
+    display: inline-block;
+    background-color: #EBECD0;
+    height: 71px;
+    width: 71px;
+}
+
+
